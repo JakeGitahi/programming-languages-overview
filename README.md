@@ -26,7 +26,33 @@ The purpose of this project is to help students gain a basic understanding of po
 
 ## Python
 
-<!-- Team Member 1 writes here -->
+### Python
+
+**Python** is one of the most beginner-friendly programming languages in the world. It is widely used in:
+
+* web development
+* automation
+* data science
+* artificial intelligence
+
+### Advantages
+
+* Easy syntax
+* Large community
+* Huge library ecosystem
+
+### Common Uses
+
+1. Web applications
+2. Data analysis
+3. Machine learning
+4. Automation scripts
+
+### Resources
+
+* https://python.org
+* https://docs.python.org/3/
+
 
 ## JavaScript
 
