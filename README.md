@@ -64,4 +64,36 @@ The purpose of this project is to help students gain a basic understanding of po
 
 ## C++
 
-<!-- Team Member 4 writes here -->
+<**C++** is a general-purpose programming language developed by **Bjarne Stroustrup in 1983**. It is widely used in systems programming, game development, and applications that require high performance.
+
+### Year of Establishment
+
+* 1983
+
+### founder(s)
+
+* Bjarne Stroustrup (Founder)
+* C++ has no co-founders.
+
+### Advantages
+
+* Fast and efficient performance
+* Supports object-oriented programming
+* Provides direct memory management
+* Portable across multiple platforms
+* Extensive standard library support
+
+### Common Uses
+
+1. Game development
+2. Operating systems
+3. Embedded systems
+4. Desktop applications
+5. Database management systems
+
+### Resources
+
+* https://isocpp.org/
+* https://www.learncpp.com/
+* https://cplusplus.com/doc/tutorial/
+* https://www.stroustrup.com/programming.html
