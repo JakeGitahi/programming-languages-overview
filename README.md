@@ -56,7 +56,22 @@ The purpose of this project is to help students gain a basic understanding of po
 
 ## JavaScript
 
-<!-- Team Member 2 writes here -->
+**JavaScript** is a versatile and widely used programming language that enables developers to create interactive and dynamic websites. It is one of the core technologies of web development alongside HTML and CSS. JavaScript can be used to build user interfaces, validate forms, create animations, and even develop server-side applications using technologies such as Node.js.
+
+### Key Features
+
+* Easy to learn and use
+* Supports interactive web pages
+* Works with HTML and CSS
+* Can be used for both front-end and back-end development
+
+### Useful Resources
+
+* [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JavaScript Tutorial](https://javascript.info)
+
+> "JavaScript is the language of the web and an essential skill for modern developers."
+
 
 ## Java
 
