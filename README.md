@@ -75,7 +75,24 @@ The purpose of this project is to help students gain a basic understanding of po
 
 ## Java
 
-<!-- Team Member 3 writes here -->
+**Java** is a popular ~~programming language~~ used to build applications, websites, and mobile apps. It is known for being reliable, secure, and *platform-independent* .
+
+### Why Students Should Use It
+- Easy to learn and widely used in industry.
+- Works on Windows, Mac, and Linux.
+- Supports Object-Oriented Programming (OOP).
+- Used for web, desktop, and Android development.
+
+### How to Get Started
+1. Download and install the Java Development Kit (JDK).
+2. Install a code editor such as Visual Studio Code.
+3. Write and run your first Java program.
+
+### Useful Links
+- [Java Documentation](https://docs.oracle.com/en/java/)
+- [Java Tutorials](https://www.w3schools.com/java/)
+
+> The best way to improve your programming skills is by building small projects and learning from your mistakes.
 
 ## C++
 
