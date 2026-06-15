@@ -28,8 +28,9 @@ The purpose of this project is to help students gain a basic understanding of po
 
 ### Python
 
-**Python** is one of the most beginner-friendly programming languages in the world. It is widely used in:
+**Python** is a versatile programming language used in:
 
+* software development
 * web development
 * automation
 * data science
