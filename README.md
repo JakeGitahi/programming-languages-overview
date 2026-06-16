@@ -57,8 +57,6 @@ The purpose of this project is to help students gain a basic understanding of po
 
 ## JavaScript
 
-## JavaScript
-
 **JavaScript** is a versatile and widely used programming language that enables developers to create interactive and dynamic websites. It is one of the core technologies of web development alongside HTML and CSS.
 
 ### Key Features
@@ -71,25 +69,24 @@ The purpose of this project is to help students gain a basic understanding of po
 ### Simple Example
 
 ```javascript
-function greet(name) {
-  console.log("Hello, " + name + "!");
-}
+console.log("Hello, World!");
+```
 
-greet("World");
+This code prints a message to the console.
 
 ### Common Uses
 
-Interactive websites  
-Web applications  
-Server-side development with Node.js  
-Mobile and desktop applications  
+* Interactive websites
+* Web applications
+* Server-side development with Node.js
+* Mobile and desktop applications
 
 ### Useful Resources
 
-JavaScript Documentation  
-JavaScript Tutorial  
-MDN Web Docs  
-freeCodeCamp JavaScript Course  
+* JavaScript Documentation
+* JavaScript Tutorial
+* MDN Web Docs
+* freeCodeCamp JavaScript Course
 
 JavaScript is the language of the web and an essential skill for modern developers.
 
